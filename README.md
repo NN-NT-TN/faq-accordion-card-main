@@ -1,3 +1,3 @@
-rontend Mentor - FAQ accordion card
+FAQ accordion card
 
 
