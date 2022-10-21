@@ -30,7 +30,7 @@ body{
 
 
 .side-image{
-    background: url("/images/bg-pattern-desktop.svg") no-repeat;
+    background: url("images/bg-pattern-desktop.svg") no-repeat;
     display: flex;
     background-size: 100%;
     background-position: 0% 0%;
